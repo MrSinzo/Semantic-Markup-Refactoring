@@ -12,9 +12,11 @@ Semantic HTMl tags are more well used by google and bing to both help find the c
 
 Open up your favored internet browser and enter in the URL : put url here
 You should see this site
-![Completed-refactor](assetsimagesScreenshot%202022-09-26%20232615png)
+
+![Completed-refactor](/assets/images/ReadMeImg/Chal1SCRNSHOT.png "Completed")
 
 ## Credits
+
 
 Univeristy of Washington instructional coding bootcamp 
 K. Feldman
@@ -29,7 +31,7 @@ https://opensource.org/licenses/MIT
 Quick insights on lead generation and advertising tips.
 
 ## Tests
-
-
-
+<!-- Forgot about other classes needing html change after css consilidation>
+<!-- Readme img wont upload to preview on vs code 09/26 -->
+<!-- Found ./filepath for img instead of /filepath -->
 
