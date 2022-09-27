@@ -12,7 +12,7 @@ Semantic HTMl tags are more well used by google and bing to both help find the c
 
 Open up your favored internet browser and enter in the URL : put url here
 You should see this site
-![Screenshot-of-completed-refactor](./assets/images/Chal1SCRNSHOT.png)
+![Completed-refactor](assetsimagesScreenshot%202022-09-26%20232615png)
 
 ## Credits
 
