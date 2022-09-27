@@ -10,10 +10,14 @@ Semantic HTMl tags are more well used by google and bing to both help find the c
 
 ## Usage
 
-Open up your favored internet browser and enter in the URL : put url here
+Open up your favored internet browser and enter in the URL:
+
+https://mrsinzo.github.io/Semantic-Markup-Refactoring/
+
 You should see this site
 
 ![Completed-refactor](/assets/images/ReadMeImg/Chal1SCRNSHOT.png "Completed")
+
 
 ## Credits
 
