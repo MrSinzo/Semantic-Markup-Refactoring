@@ -1,3 +1,4 @@
+/* Universal Selectors*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,13 +9,14 @@ body {
     background-color: #d9dcd6;
 }
 
+/*The header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* the .header class paired with the h1 tag*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -24,6 +26,7 @@ body {
     color: #d9dcd6;
 }
 
+/* The headers nav has an extra 4 fonts to fall-back on */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* This is the class for the heading image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,11 +63,12 @@ p {
     background-position: center;
 }
 
+/* this class is used on the SEO picture and Social Media Marketing Picture  */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* This class selector is used on the Online Reputation management picture*/ 
 .float-right {
     float: right;
     margin-left: 25px;
@@ -74,6 +79,8 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+
+/*the class selector below is used for the Right side bar of info (last section of info)*/
 
 .benefits {
     margin-right: 20px;
@@ -86,7 +93,7 @@ p {
     background-color: #2589bd;
 }
 
-/*consolidated the benefit- orginal code, DRY if you can*/
+/*consolidated the benefit- orginal code*/
 
 .benefit-add {
     margin-bottom: 32px;
@@ -132,3 +139,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/*There are no ID selectors in this CSS, or any focus selectors*/
